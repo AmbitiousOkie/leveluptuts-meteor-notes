@@ -8,11 +8,11 @@ Now connect to [localhost:3000](http://localhost:3000).
 
 Trying making changes to resolutions.css such as below.
 
-'''
+```
 body {
 	background: red;
 }
-'''
+```
 
 Finally, explore around through the various .meteor folders and files, but be sure not to permanently change anything just yet.
 
