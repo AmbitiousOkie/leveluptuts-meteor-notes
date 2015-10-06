@@ -10,12 +10,12 @@ Now connect to [localhost:3000](http://localhost:3000).
 
 In this section, we've made some changes to the default files. Changes include:
 
-1 Clearing out all client side data and functions inside of resolutions.js
-2 Added a template helper with a premade array of objects to resolutions.js
-3 Modified the template "hello" to read as "resolution"
-4 Created an unordered list in the body
-5 Iterated through the array of objects found in resolutions.js in the unordered list
-6 Displayed the "resolution" template in each iteration of the array objects
+1. Clearing out all client side data and functions inside of resolutions.js
+2. Added a template helper with a premade array of objects to resolutions.js
+3. Modified the template "hello" to read as "resolution"
+4. Created an unordered list in the body
+5. Iterated through the array of objects found in resolutions.js in the unordered list
+6. Displayed the "resolution" template in each iteration of the array objects
 
 ## Concepts
 
